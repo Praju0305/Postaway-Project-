@@ -1,0 +1,19 @@
+{
+  "name": "postaway-project",
+  "version": "1.0.0",
+  "description": "Postaway coding ninja project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^2.0.2",
+    "winston": "^3.17.0"
+  }
+}
